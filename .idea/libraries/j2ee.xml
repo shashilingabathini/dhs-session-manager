@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="j2ee">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/dhsplugin-master/lib/j2ee.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/dhsplugin-master/lib/navigatorAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
